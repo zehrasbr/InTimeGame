@@ -1,0 +1,22 @@
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\bin\Debug\2210733074.exe.config
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\bin\Debug\2210733074.exe
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\bin\Debug\2210733074.pdb
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\2210733074.csproj.AssemblyReference.cache
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\2210733074.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\_2210733074.Form1.resources
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\_2210733074.Properties.Resources.resources
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\2210733074.csproj.GenerateResource.cache
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\2210733074.csproj.CoreCompileInputs.cache
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\2210733074.exe
+C:\Users\zehra\OneDrive\Masaüstü\Zehra İSBİR\2210733074\2210733074\obj\Debug\2210733074.pdb
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\bin\Debug\2210733074.exe.config
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\bin\Debug\2210733074.exe
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\bin\Debug\2210733074.pdb
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\2210733074.csproj.AssemblyReference.cache
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\2210733074.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\_2210733074.Form1.resources
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\_2210733074.Properties.Resources.resources
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\2210733074.csproj.GenerateResource.cache
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\2210733074.csproj.CoreCompileInputs.cache
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\2210733074.exe
+C:\Users\zehra\OneDrive\Masaüstü\2210733074\2210733074\obj\Debug\2210733074.pdb
